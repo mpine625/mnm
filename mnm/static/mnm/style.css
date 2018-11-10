@@ -1,0 +1,19 @@
+body {
+     font-family: 'Poppins';
+     text-align: center;
+}
+
+#topbar {
+	font-family: 'Poppins';
+	font-size: 30px;
+	text-align: center;
+	background-color: gray;
+	padding-top: 5%;
+	padding-bottom: 5%;
+}
+
+#welcome {
+	 text-align: center;
+	 font-family: 'Poppins';
+	 margin-top: 10%;
+}
